@@ -1,0 +1,1 @@
+"""Warsaw Property Ideas backend application."""
